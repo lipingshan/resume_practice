@@ -1,0 +1,40 @@
+h1 {
+  color: blue;
+  margin: 0 auto;
+}
+
+ul {
+  color: black;
+}
+
+#containor {
+  background-color: rgba(5, 201, 208, 0.22);
+}
+
+#big_containor {
+  width: 901px;
+  height: 650px;
+  float: left;
+}
+
+#small_containor {
+  width: 700px;
+  height: 550px;
+  float: left;
+}
+
+img {
+  width: 200px;
+  height: 550;
+  float: left;
+}
+
+#footer {
+  width: 901px;
+  height: 400px;
+  float: left;
+}
+
+#value {
+  width: 901px;
+}
